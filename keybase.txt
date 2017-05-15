@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ssullivan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ssull.com
+  * I am ssullivan (https://keybase.io/ssullivan) on keybase.
+  * I have a public key ASCe6maQ6awvl7-tvza212p-wPmj5IYBHN5VEP12u8prUQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209eea6690e9ac2f97bfadbf36b6d76a7ec0f9a3e486011cde5510fd76bbca6b510a",
+            "host": "keybase.io",
+            "kid": "01209eea6690e9ac2f97bfadbf36b6d76a7ec0f9a3e486011cde5510fd76bbca6b510a",
+            "uid": "5eed0cbea53fc4780d1e41380801a119",
+            "username": "ssullivan"
+        },
+        "service": {
+            "hostname": "ssull.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.22"
+    },
+    "ctime": 1494814368,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1494814289,
+        "hash": "d05ba915ab8ce2495c65ae267063873b5f8d1bbcb44933c44bf42fc8972f3656ef932b44f8fa0359b89314f865ce8bd2cd876eac7da2be6d8c1d6fb778712bf6",
+        "seqno": 1083001
+    },
+    "prev": "fc4710e68d1fac4ff89ecba0ea9413c999853c32e9e6877fd3427d044317d9bd",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnupmkOmsL5e/rb82ttdqfsD5o+SGARzeVRD9drvKa1EKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWVlYTY2OTBlOWFjMmY5N2JmYWRiZjM2YjZkNzZhN2VjMGY5YTNlNDg2MDExY2RlNTUxMGZkNzZiYmNhNmI1MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWVlYTY2OTBlOWFjMmY5N2JmYWRiZjM2YjZkNzZhN2VjMGY5YTNlNDg2MDExY2RlNTUxMGZkNzZiYmNhNmI1MTBhIiwidWlkIjoiNWVlZDBjYmVhNTNmYzQ3ODBkMWU0MTM4MDgwMWExMTkiLCJ1c2VybmFtZSI6InNzdWxsaXZhbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic3N1bGwuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMiJ9LCJjdGltZSI6MTQ5NDgxNDM2OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk0ODE0Mjg5LCJoYXNoIjoiZDA1YmE5MTVhYjhjZTI0OTVjNjVhZTI2NzA2Mzg3M2I1ZjhkMWJiY2I0NDkzM2M0NGJmNDJmYzg5NzJmMzY1NmVmOTMyYjQ0ZjhmYTAzNTliODkzMTRmODY1Y2U4YmQyY2Q4NzZlYWM3ZGEyYmU2ZDhjMWQ2ZmI3Nzg3MTJiZjYiLCJzZXFubyI6MTA4MzAwMX0sInByZXYiOiJmYzQ3MTBlNjhkMWZhYzRmZjg5ZWNiYTBlYTk0MTNjOTk5ODUzYzMyZTllNjg3N2ZkMzQyN2QwNDQzMTdkOWJkIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQD9gHWpuElXpuLFeouukPZ16SSLPZgTYeaFnGwJT3RsIRKtDTNUBq5G71TepQDstaNQChKxHKcgwJn8nEmF39wqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDPZvuBJtZNn+XGyyehxOaUzmOjnfBf8vMxNhjPAkoU1aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ssullivan
+
+==================================================================
